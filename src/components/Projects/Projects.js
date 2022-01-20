@@ -47,7 +47,7 @@ const Projects = () => (
                 View Site
               </ExternalLinks>
               <ExternalLinks href={source} target="_blank">
-                kacha Code
+                Raw Code
               </ExternalLinks>
             </UtilityList>
           </BlogCard>
